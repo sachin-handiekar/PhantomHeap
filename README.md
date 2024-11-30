@@ -32,7 +32,7 @@ Add the following dependency to your `pom.xml`:
 ```xml
 <dependency>
     <groupId>com.sachinhandiekar</groupId>
-    <artifactId>phantomheap</artifactId>
+    <artifactId>PhantomHeap</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
